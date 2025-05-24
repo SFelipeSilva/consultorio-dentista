@@ -67,6 +67,7 @@ p1.darNotaAtendimento(4);
 Recepcionista r1 = new Recepcionista();
 // calcula salário com base nas notas recebidas
 r1.receberSalario();
+```
 
 ## 📽️ Tutorial em Vídeo
 https://youtu.be/KtB1OzYTBRE
