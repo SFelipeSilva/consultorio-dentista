@@ -69,7 +69,7 @@ Recepcionista r1 = new Recepcionista();
 r1.receberSalario();
 
 ## 📽️ Tutorial em Vídeo
-Em breve: vídeo explicando o código, conceitos de POO, e execução de um exemplo completo.
+https://youtu.be/KtB1OzYTBRE
 
 ## 📘 Licença
 Este projeto é de livre uso para fins educacionais.
